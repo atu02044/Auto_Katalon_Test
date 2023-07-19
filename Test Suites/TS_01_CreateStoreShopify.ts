@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_01_CreateStoreShopify</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>95189542-db47-4c5e-b076-3fc5fc73820a</testSuiteGuid>
+   <testCaseLink>
+      <guid>ce0093fe-41ef-4a2e-a38c-b50ad8576b0b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_01_LoginShopifyPartner</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>babb38f2-b18e-48c9-8606-29121f828d59</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ea45f794-bcc6-4bf7-9659-07a93029356d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b58b91e2-24c8-412f-ace2-45979efd83f1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_02_CreateStoreOnShopify</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8911c8f7-647a-43b1-ba01-9114e8f88e3c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataFileStore</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>8911c8f7-647a-43b1-ba01-9114e8f88e3c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>store_name_random</value>
+         <variableId>3cb5328c-0312-41b7-83e0-236f3c0d0317</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

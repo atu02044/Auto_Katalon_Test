@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_01_LoginShopifyPartner</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6de55203-1c2f-4b30-a7bf-3da4afbd3fe1</testCaseGuid>
+   <variable>
+      <defaultValue>'chauatu12@gmail.com'</defaultValue>
+      <description></description>
+      <id>babb38f2-b18e-48c9-8606-29121f828d59</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'4cmfc4wceq0='</defaultValue>
+      <description></description>
+      <id>ea45f794-bcc6-4bf7-9659-07a93029356d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

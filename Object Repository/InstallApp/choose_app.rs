@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>choose_app</name>
+   <tag></tag>
+   <elementGuidId>395ae83b-e695-4138-9ece-01273e0640c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href='https://apps.shopify.com/instafeed-socialwidget?search_id=c7a6899a-9195-46eb-acb2-bcef5ca86101&amp;surface_detail=Socialwidget&amp;surface_inter_position=1&amp;surface_intra_position=1&amp;surface_type=search']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

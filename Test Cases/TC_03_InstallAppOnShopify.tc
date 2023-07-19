@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_03_InstallAppOnShopify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83daa4e4-a82a-4d71-a97e-7055ac1fef69</testCaseGuid>
+   <variable>
+      <defaultValue>'chauatu12@gmail.com'</defaultValue>
+      <description></description>
+      <id>8efef050-0e63-4e89-b8e6-7382726698e9</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'4cmfc4wceq0='</defaultValue>
+      <description></description>
+      <id>fc8f6cf3-a5cc-4b1c-b4b6-5d2862ce7bfa</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'tuctn-test-auto2.myshopify.com'</defaultValue>
+      <description></description>
+      <id>4f162be2-0529-4d7d-8c14-5afd3288ec29</id>
+      <masked>false</masked>
+      <name>storeUrl</name>
+   </variable>
+</TestCaseEntity>
