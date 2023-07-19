@@ -22,24 +22,24 @@ import org.openqa.selenium.Keys as Keys
 //email[0] ="test@gmail.com"
 //email[1]="test1@gmail.com"
 
-//lấy theo mapping
-//def accountMap =[
-//	acc1:[
-//		email:'test.1@gmail.com',
-//		password:'123456'
-//		
-//		],
-//	acc2:[
-//		email:'test.2@gmail.com',
-//		password:'1234567'
-//		
-//		],
-//	acc3:[
-//		email:'test.3@gmail.com',
-//		password:'123'
-//		
-//		]
-//	]
+//lấy theo mapping _test mở command
+def accountMap =[
+	acc1:[
+		email:'test.1@gmail.com',
+		password:'123456'
+		
+		],
+	acc2:[
+		email:'test.2@gmail.com',
+		password:'1234567'
+		
+		],
+	acc3:[
+		email:'test.3@gmail.com',
+		password:'123'
+		
+		]
+	]
 
 
 WebUI.openBrowser("https://smallstore0101.myshopify.com/account/login")
