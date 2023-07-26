@@ -5,6 +5,18 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>6de55203-1c2f-4b30-a7bf-3da4afbd3fe1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>babb38f2-b18e-48c9-8606-29121f828d59</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea45f794-bcc6-4bf7-9659-07a93029356d</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'chauatu12@gmail.com'</defaultValue>
       <description></description>

@@ -30,5 +30,3 @@ WebUI.click(findTestObject('Object Repository/LoginAccount/btn_login_account'))
 WebUI.click(findTestObject('Object Repository/LoginAccount/btn_choose_partner'))
 WebUI.delay(3)
 WebUI.waitForElementPresent(findTestObject('Object Repository/CreateStore/choose_store_on_nav'), 5)
-
-

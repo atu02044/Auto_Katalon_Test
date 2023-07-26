@@ -23,9 +23,6 @@ import org.openqa.selenium.Keys as Keys
 
 
 WebUI.navigateToUrl('https://partners.shopify.com/3046806/stores/new?store_type=test_store&data_type=static_data')
-//WebUI.click(findTestObject('Object Repository/CreateStore/choose_store_on_nav'))
-//WebUI.click(findTestObject('Object Repository/CreateStore/btn_add_store'))
-//WebUI.click(findTestObject('Object Repository/CreateStore/span_choose_develop_store'))
 String store_name_random = "tuctn_store_auto" + RandStr.randomNumeric(5)
 WebUI.setText(findTestObject('Object Repository/CreateStore/txt_store_name'),store_name_random)
 WebUI.delay(3)
