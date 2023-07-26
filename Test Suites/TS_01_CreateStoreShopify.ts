@@ -52,4 +52,29 @@
          <variableId>3cb5328c-0312-41b7-83e0-236f3c0d0317</variableId>
       </variableLink>
    </testCaseLink>
+   <testCaseLink>
+      <guid>694bb245-c4f6-4e8a-ad9a-e014963d4272</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_03_InstallAppOnShopify</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8efef050-0e63-4e89-b8e6-7382726698e9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>fc8f6cf3-a5cc-4b1c-b4b6-5d2862ce7bfa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4f162be2-0529-4d7d-8c14-5afd3288ec29</variableId>
+      </variableLink>
+   </testCaseLink>
 </TestSuiteEntity>
