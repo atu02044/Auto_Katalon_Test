@@ -28,7 +28,6 @@ WebUI.setText(findTestObject('Object Repository/CreateStore/txt_store_name'),sto
 WebUI.delay(3)
 WebUI.click(findTestObject('Object Repository/CreateStore/btn_create_store'))
 //luu file excel
-
 WebUI.delay(10)
 //def myUrl = WebUI.getUrl()
 //println("test url ne" + myUrl)
